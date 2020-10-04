@@ -9,3 +9,5 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
  - [PakForlay](https://github.com/PakForlay)
  - [Agung Laksono P](https://github.com/agunglaksonop)
  - [Muhammad Alif N](https://github.com/aliffauzi34)
+ - [Timothy](https://github.com/setorantimothy)
+ - [Abdullahsams](https://github.com/abdullahsams)
