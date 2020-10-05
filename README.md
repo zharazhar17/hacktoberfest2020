@@ -18,3 +18,4 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
  - [Hasan Basri](https://github.com/verluchie)
  - [Nukholis Ramadhan](https://github.com/ramadh-an)
  - [Nizar Izzuddin Yatim Fadlan](https://github.com/nizariyf)
+ - [Syahrul](https://github.com/Syhrularv)
