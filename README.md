@@ -21,4 +21,5 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
  - [Nukholis Ramadhan](https://github.com/ramadh-an)
  - [Nizar Izzuddin Yatim Fadlan](https://github.com/nizariyf)
  - [Syahrul](https://github.com/Syhrularv)
+ - [Hisyam Squartz](https://github.com/4t20am)
  - [Dzaki Muzhaffar](https://github.com/dzakiimuzh)
