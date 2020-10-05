@@ -15,3 +15,8 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
  - [Muhammad Bhaska](https://github.com/mhmdbhsk)
  - [Ghammar Alif](https://github.com/jancoxx412)
  - [Harsh Kumar](https://github.com/hkmr)
+ - [satyamsri8](https://github.com/satyamsri8)
+ - [Ramadhan](https://github.com/ramadh-xic)
+ - [Hasan Basri](https://github.com/verluchie)
+ - [Nukholis Ramadhan](https://github.com/ramadh-an)
+ - [Nizar Izzuddin Yatim Fadlan](https://github.com/nizariyf)
