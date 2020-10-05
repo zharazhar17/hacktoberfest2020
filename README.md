@@ -14,3 +14,4 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
  - [Krishiv](https://github.com/krishiv8190)
  - [Muhammad Bhaska](https://github.com/mhmdbhsk)
  - [Ghammar Alif](https://github.com/jancoxx412)
+ - [Hasan Basri](https://github.com/verluchie)
