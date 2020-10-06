@@ -26,3 +26,4 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
  - [Riyaldi Hasan](https://github.com/riyhs)
  - [Adithya Firmansyah Putra](https://github.com/Adithya-13)
  - [Muhammad Arief](https://github.com/riffshop)
+ - [Lukas B](https://github.com/lukasbrodbeck)
