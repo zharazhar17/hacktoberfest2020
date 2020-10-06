@@ -24,3 +24,5 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
  - [Hisyam Squartz](https://github.com/4t20am)
  - [Dzaki Muzhaffar](https://github.com/dzakiimuzh)
  - [Riyaldi Hasan](https://github.com/riyhs)
+ - [Adithya Firmansyah Putra](https://github.com/Adithya-13)
+ - [Muhammad Arief](https://github.com/riffshop)
