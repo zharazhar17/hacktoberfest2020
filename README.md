@@ -30,3 +30,4 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
 - [Muhammad Arief](https://github.com/riffshop)
 - [Lukas B](https://github.com/lukasbrodbeck)
 - [Rigen Maulana](https://github.com/rygenzx)
+- [Fitrah Maulana](https://github.com/insomness)
