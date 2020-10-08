@@ -32,3 +32,4 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
 - [Rigen Maulana](https://github.com/rygenzx)
 - [Fitrah Maulana](https://github.com/insomness)
 - [Denny Wahyu Prasetyo](https://github.com/janexmgd)
+- [Anmol Rishi](https://github.com/anmolrishi)
