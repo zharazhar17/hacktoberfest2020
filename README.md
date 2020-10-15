@@ -37,3 +37,4 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
 - [Ilham Jati](https://github.com/ilhamjatik)
 - [Naka Rapstar](https://github.com/Nakasz)
 - [Sandi Aris](https://github.com/sandi-aris)
+- [Hafiz Caniago](https://github.com/hafizcode02)
