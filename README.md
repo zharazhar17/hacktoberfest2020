@@ -42,3 +42,4 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
 - [Gabriel Sinaga](https://github.com/inspector7)
 - [Maulana](https://github.com/lanacoeg)
 - [Naufal Taufiq Ridwan](https://github.com/maskods)
+- [Ikshit Agrawal](https://github.com/CyberIkshit)
