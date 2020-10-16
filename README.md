@@ -41,3 +41,4 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
 - [Hafiz Caniago](https://github.com/hafizcode02)
 - [Gabriel Sinaga](https://github.com/inspector7)
 - [Maulana](https://github.com/lanacoeg)
+- [Naufal Taufiq Ridwan](https://github.com/maskods)
