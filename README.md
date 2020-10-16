@@ -43,3 +43,4 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
 - [Maulana](https://github.com/lanacoeg)
 - [Naufal Taufiq Ridwan](https://github.com/maskods)
 - [Ikshit Agrawal](https://github.com/CyberIkshit)
+- [Ishu](https://github.com/dev-ishu)
