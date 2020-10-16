@@ -45,3 +45,4 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
 - [Hamran](https://github.com/hamran2631)
 - [Ikshit Agrawal](https://github.com/CyberIkshit)
 - [Ishu](https://github.com/dev-ishu)
+- [Farhan Nurdiansyah](https://github.com/AhanDotID)
