@@ -34,6 +34,7 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
 - [Denny Wahyu Prasetyo](https://github.com/janexmgd)
 - [Anmol Rishi](https://github.com/anmolrishi)
 - [Finlay](https://github.com/fin51)
+- [Arisandi](https://github.com/arisandi1)
 - [Ilham Jati](https://github.com/ilhamjatik)
 - [Naka Rapstar](https://github.com/Nakasz)
 - [Sandi Aris](https://github.com/sandi-aris)
