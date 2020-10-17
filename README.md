@@ -47,3 +47,4 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
 - [Ishu](https://github.com/dev-ishu)
 - [Farhan Nurdiansyah](https://github.com/AhanDotID)
 - [Fani](https://github.com/fanian26)
+- [M Yusril](https://github.com/shansekai)
