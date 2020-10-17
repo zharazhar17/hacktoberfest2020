@@ -52,3 +52,5 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
 - [FizelF](https://github.com/FizelF)
 - [Aditya MS](https://github.com/Adityams06)
 - [Rifki Saputra](https://github.com/Rifky123405)
+- [LeonardoRoccaH](https://github.com/LeonardoRoccaH)
+
