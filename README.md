@@ -48,3 +48,4 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
 - [Farhan Nurdiansyah](https://github.com/AhanDotID)
 - [Fani](https://github.com/fanian26)
 - [M Yusril](https://github.com/shansekai)
+- [Rafli Dio](https://github.com/rafli-dio)
