@@ -54,4 +54,4 @@ Hacktoberfest is open to everyone in our global community! a month-long celebrat
 - [Rifki Saputra](https://github.com/Rifky123405)
 - [Ahmad Andika](https://github.com/ahmdaka06)
 - [LeonardoRoccaH](https://github.com/LeonardoRoccaH)
-- [Azhar Ashilah(https://github.com/zharazhar17/)]
+- [Azhar Ashilah](https://github.com/zharazhar17)
